@@ -1,0 +1,42 @@
+[
+    {
+        "route": "/post_movie",
+        "http_method": "POST",
+        "function_name": "post_movie",
+        "validation_method": "NO_VALIDATION",
+        "respond_result": true,
+        "fetch_custom_user_data": false,
+        "create_user_on_auth": false,
+        "disabled": false
+    },
+    {
+        "route": "/say_hello",
+        "http_method": "POST",
+        "function_name": "sayHello",
+        "validation_method": "NO_VALIDATION",
+        "respond_result": true,
+        "fetch_custom_user_data": false,
+        "create_user_on_auth": false,
+        "disabled": false
+    },
+    {
+        "route": "/say_nice_to_meet_you",
+        "http_method": "POST",
+        "function_name": "sayNiceToMeetYou",
+        "validation_method": "NO_VALIDATION",
+        "respond_result": false,
+        "fetch_custom_user_data": false,
+        "create_user_on_auth": false,
+        "disabled": false
+    },
+    {
+        "route": "/say_good_bye",
+        "http_method": "POST",
+        "function_name": "sayGoodBye",
+        "validation_method": "NO_VALIDATION",
+        "respond_result": false,
+        "fetch_custom_user_data": false,
+        "create_user_on_auth": false,
+        "disabled": false
+    }
+]

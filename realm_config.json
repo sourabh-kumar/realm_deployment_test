@@ -1,0 +1,7 @@
+{
+    "app_id": "rest_api_test-rcyet",
+    "config_version": 20210101,
+    "name": "rest_api_test",
+    "location": "IN-MB",
+    "deployment_model": "LOCAL"
+}
