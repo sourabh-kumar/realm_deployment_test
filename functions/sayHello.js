@@ -32,5 +32,5 @@ exports = function (incoming, response) {
   console.log("FROM sayHello");
   console.log("GOING TO SAY NICE TO MEET YOU");
   context.functions.execute("sayNiceToMeetYou");
-  return "Hello World!!!!";
+  return "Hello World! Testing automatic deployments for realm app";
 };
